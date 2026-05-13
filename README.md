@@ -10,7 +10,7 @@ A robust Shopping Cart implementation for Laravel Framework, now supporting Lara
 Install the package through [Composer](http://getcomposer.org/).
 
 ```bash
-composer require "nicxonsolutions/laravel-shopping-cart"
+composer require nicxonsolutions/laravel-shopping-cart
 ```
 
 
